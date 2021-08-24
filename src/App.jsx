@@ -1,6 +1,8 @@
-import Header from './components/Header'
-import Nav from './components/Nav'
-import Section from './components/Section'
+import Header from './components/Header/Header'
+import Nav from './components/Nav/Nav'
+import Bio from './components/Sections/Bio'
+import Work from './components/Sections/Work'
+import Contact from './components/Sections/Contact'
 import './assets/css/App.css'
 import './assets/css/Nav.css'
 
@@ -9,7 +11,10 @@ function App() {
     <div>
       <Nav />
       <Header />
-      <Section />
+      <Bio />
+      <Work />
+      <Contact />
+      <Footer />
     </div>
   );
 }
