@@ -3,7 +3,7 @@ export default function Header() {
         <div className="App">
             <header className="App-header">
             <p>
-                Brooks Gunn
+                Brooks Gunn.
             </p>
             </header>
         </div>
