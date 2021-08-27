@@ -1,4 +1,4 @@
-import '../../assets/css/Section.css'
+import './Contact.css'
 
 export default function Contact() {
     return (

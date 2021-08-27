@@ -55,6 +55,7 @@ nav ul li a {
     color: white;
     font-family: var(--ds-font);
     font-size: var(--nav-font-size);
+    text-decoration: none;
 }
 
 .collapse {

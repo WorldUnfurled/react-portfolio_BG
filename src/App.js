@@ -3,9 +3,7 @@ import Nav from './components/Nav/Nav'
 import Bio from './components/Sections/Bio'
 import Contact from './components/Sections/Contact'
 import Work from './components/Sections/Work'
-
-import './assets/css/App.css'
-import './assets/css/Nav.css'
+import Footer from './components/Footer/Footer'
 
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 
@@ -28,6 +26,7 @@ function App() {
             </Route>
           </Switch>
         </div>
+        <Footer />
       </div>
     </Router>
   );

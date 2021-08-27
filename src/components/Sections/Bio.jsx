@@ -1,12 +1,12 @@
-import '../../assets/css/Section.css'
+import './Bio.css'
 
 export default function Bio() {
     return (
         <div id="bio">
             <section className="bio-section">
-            <p>
-                Bio
-            </p>
+            <h1>
+                About Me
+            </h1>
             </section>
         </div>
     );

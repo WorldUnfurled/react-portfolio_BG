@@ -1,0 +1,10 @@
+#bio section {
+    background: linear-gradient(to bottom, #0b576f, #095b72, #076075, #076478, #08697a);
+    height: 100vh;
+}
+
+#bio h1 {
+    padding-top: 200px;
+    color: white;
+    font-size: 80px;
+}

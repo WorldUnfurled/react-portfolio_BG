@@ -1,0 +1,11 @@
+footer {
+    background-color: var(--nav-color);
+    text-align: center;
+    font-size: var(--nav-font-size);
+    font-family: var(--ds-font);
+    color: white;
+    height: 5vh;
+    padding: 10px;
+    font-weight: bold;
+    box-shadow: var(--nav-box-shadow);
+}

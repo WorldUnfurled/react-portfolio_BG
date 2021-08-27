@@ -1,12 +1,11 @@
-import '../../assets/css/Section.css'
-
+import './Work.css'
 
 export default function Work() {
     return (
         <div id="work">
             <section className="work-section">
             <p>
-                Work
+                Portfolio
             </p>
             </section>
         </div>
