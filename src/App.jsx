@@ -1,18 +1,35 @@
 import Header from './components/Header/Header'
 import Nav from './components/Nav/Nav'
 import Bio from './components/Sections/Bio'
-import Work from './components/Sections/Work'
 import Contact from './components/Sections/Contact'
+import Work from './components/Sections/Work'
+
 import './assets/css/App.css'
 import './assets/css/Nav.css'
 
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
+
 function App() {
   return (
-    <div>
-      <Nav />
-      <Header />
-      <Work />
-    </div>
+    <Router>
+      <div className="App">
+        <Nav />
+        <Header />
+        <div className="content">
+          <Switch>
+            <Route exact path="/bio">
+              <Bio />
+            </Route>
+            <Route exact path="/contact">
+              <Contact />
+            </Route>
+            <Route exact path="/work">
+              <Work />
+            </Route>
+          </Switch>
+        </div>
+      </div>
+    </Router>
   );
 }
 

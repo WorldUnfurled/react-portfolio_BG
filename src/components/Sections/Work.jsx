@@ -1,9 +1,12 @@
-export default function Section() {
+import '../../assets/css/Section.css'
+
+
+export default function Work() {
     return (
         <div id="work">
             <section className="work-section">
             <p>
-                Brooks Gunn
+                Work
             </p>
             </section>
         </div>
