@@ -19,6 +19,10 @@ Highlights:
 * Responsive Header
 * Added Project cards that add a touch of design to the site
 
+![about-me-github](https://user-images.githubusercontent.com/80599137/131204279-8545d889-cdeb-4d8a-9c72-b4ca4c4aefe4.png)
+![portfolio-github](https://user-images.githubusercontent.com/80599137/131204280-1fc205eb-113b-43cf-9c25-2148e4a1dbc3.png)
+![contact-github](https://user-images.githubusercontent.com/80599137/131204282-9d3c6a79-b037-446f-8d25-e764f7cca704.png)
+
 ## E-signature
 
 Brooks Gunn :)
