@@ -9,3 +9,8 @@ footer {
     font-weight: bold;
     box-shadow: var(--nav-box-shadow);
 }
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
