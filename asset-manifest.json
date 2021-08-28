@@ -1,20 +1,27 @@
 {
   "files": {
-    "main.css": "/react-portfolio_BG/static/css/main.2304e5f2.chunk.css",
-    "main.js": "/react-portfolio_BG/static/js/main.94802192.chunk.js",
-    "main.js.map": "/react-portfolio_BG/static/js/main.94802192.chunk.js.map",
+    "main.css": "/react-portfolio_BG/static/css/main.f5a19efa.chunk.css",
+    "main.js": "/react-portfolio_BG/static/js/main.63cadd9c.chunk.js",
+    "main.js.map": "/react-portfolio_BG/static/js/main.63cadd9c.chunk.js.map",
     "runtime-main.js": "/react-portfolio_BG/static/js/runtime-main.43aabc5d.js",
     "runtime-main.js.map": "/react-portfolio_BG/static/js/runtime-main.43aabc5d.js.map",
-    "static/js/2.ae53ffd8.chunk.js": "/react-portfolio_BG/static/js/2.ae53ffd8.chunk.js",
-    "static/js/2.ae53ffd8.chunk.js.map": "/react-portfolio_BG/static/js/2.ae53ffd8.chunk.js.map",
+    "static/js/2.8039894c.chunk.js": "/react-portfolio_BG/static/js/2.8039894c.chunk.js",
+    "static/js/2.8039894c.chunk.js.map": "/react-portfolio_BG/static/js/2.8039894c.chunk.js.map",
     "index.html": "/react-portfolio_BG/index.html",
-    "static/css/main.2304e5f2.chunk.css.map": "/react-portfolio_BG/static/css/main.2304e5f2.chunk.css.map",
-    "static/js/2.ae53ffd8.chunk.js.LICENSE.txt": "/react-portfolio_BG/static/js/2.ae53ffd8.chunk.js.LICENSE.txt"
+    "static/css/main.f5a19efa.chunk.css.map": "/react-portfolio_BG/static/css/main.f5a19efa.chunk.css.map",
+    "static/js/2.8039894c.chunk.js.LICENSE.txt": "/react-portfolio_BG/static/js/2.8039894c.chunk.js.LICENSE.txt",
+    "static/media/budget_tr.e8f9988c.png": "/react-portfolio_BG/static/media/budget_tr.e8f9988c.png",
+    "static/media/coin-based.721336e1.png": "/react-portfolio_BG/static/media/coin-based.721336e1.png",
+    "static/media/dog_and_me.3b343877.jpg": "/react-portfolio_BG/static/media/dog_and_me.3b343877.jpg",
+    "static/media/ecomm.2812bf60.png": "/react-portfolio_BG/static/media/ecomm.2812bf60.png",
+    "static/media/fan-fix.be876a56.png": "/react-portfolio_BG/static/media/fan-fix.be876a56.png",
+    "static/media/mypassgen.b9aa28f1.png": "/react-portfolio_BG/static/media/mypassgen.b9aa28f1.png",
+    "static/media/port_web.367ec208.png": "/react-portfolio_BG/static/media/port_web.367ec208.png"
   },
   "entrypoints": [
     "static/js/runtime-main.43aabc5d.js",
-    "static/js/2.ae53ffd8.chunk.js",
-    "static/css/main.2304e5f2.chunk.css",
-    "static/js/main.94802192.chunk.js"
+    "static/js/2.8039894c.chunk.js",
+    "static/css/main.f5a19efa.chunk.css",
+    "static/js/main.63cadd9c.chunk.js"
   ]
 }
