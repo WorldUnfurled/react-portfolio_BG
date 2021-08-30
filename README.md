@@ -4,7 +4,7 @@
 
 ### [My GitHub!](https://github.com/worldunfurled)
 
-### [Deployed Page](https://worldunfurled.github.io/)
+### [Deployed Page](https://worldunfurled.github.io/react-portfolio_BG/)
 
 ## Description
 
