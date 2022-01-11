@@ -1,11 +1,11 @@
-import Header from './components/Header/Header'
-import Nav from './components/Nav/Nav'
-import Bio from './components/Sections/Bio'
-import Contact from './components/Sections/Contact'
-import Work from './components/Sections/Work'
-import Footer from './components/Footer/Footer'
+import Header from "./components/Header/Header";
+import Nav from "./components/Nav/Nav";
+import Bio from "./components/Sections/Bio";
+import Contact from "./components/Sections/Contact";
+import Work from "./components/Sections/Work";
+import Footer from "./components/Footer/Footer";
 
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 function App() {
   return (

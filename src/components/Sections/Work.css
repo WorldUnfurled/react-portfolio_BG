@@ -1,46 +1,53 @@
 #work section {
-    background: linear-gradient(to bottom, #0b576f, #095b72, #076075, #076478, #08697a);
-    height: 100%;
+  background: linear-gradient(
+    to bottom,
+    #0b576f,
+    #095b72,
+    #076075,
+    #076478,
+    #08697a
+  );
+  height: 100%;
 }
 
 .port-h1 {
-    color: white;
-    font-size: 80px;
+  color: white;
+  font-size: 80px;
 }
 
 .cards {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-    padding: 20px;
-    grid-gap: 40px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  padding: 20px;
+  grid-gap: 40px;
 }
 
 .cards a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .card {
-    background-color: blueviolet;
-    border-radius: 20px;
-    box-shadow: 0 0 30px rgba(0, 0, 0, 0, .18);
+  background-color: blueviolet;
+  border-radius: 20px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0, 0.18);
 }
 
 .card-container {
-    position: relative;
-    clip-path: polygon(0% 0%, 100% 0%, 100% 85%, 0% 100%);
+  position: relative;
+  clip-path: polygon(0% 0%, 100% 0%, 100% 85%, 0% 100%);
 }
 
 .card-image {
-    width: 100%;
-    display: block;
-    border-radius: 20px 20px 0 0;
+  width: 100%;
+  display: block;
+  border-radius: 20px 20px 0 0;
 }
 
 .details {
-    color: white;
+  color: white;
 }
 
 .details > h3 {
-    font-weight: 600;
-    font-size: 18px;
+  font-weight: 600;
+  font-size: 18px;
 }

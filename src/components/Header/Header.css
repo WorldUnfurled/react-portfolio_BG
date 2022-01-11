@@ -1,23 +1,30 @@
 * {
-    padding: 0;
-    margin: 0;
+  padding: 0;
+  margin: 0;
 }
 
 .App {
-    text-align: center;
+  text-align: center;
 }
-  
+
 .App-header {
-    background: linear-gradient(to bottom, #032435, #053043, #073c52, #094a60, #0b576f);
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    font-size: calc(46px + 2vmin);
-    color: white;
+  background: linear-gradient(
+    to bottom,
+    #032435,
+    #053043,
+    #073c52,
+    #094a60,
+    #0b576f
+  );
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(46px + 2vmin);
+  color: white;
 }
-  
+
 .App-link {
-    color: #61dafb;
+  color: #61dafb;
 }
